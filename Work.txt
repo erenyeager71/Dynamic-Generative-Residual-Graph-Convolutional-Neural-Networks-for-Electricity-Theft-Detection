@@ -1,0 +1,32 @@
+Dynamic Generative Residual Graph Convolutional Neural Networks for Electricity Theft Detection
+
+Electricity theft detection, graph convolutional network, smote, smart grid.
+
+Dynamic_Generative_Residual
+
+
+dynamic_generative_residual
+
+
+Prediction_Of_Electricity_Theft_Detection
+
+
+IEEE Transaction Access on Machine Learning,Volume:12,Issue Date:26.March.2024
+
+
+
+Members
+--------
+
+Fid	
+Age	
+Gender	
+Street 	
+City	
+Latitude	
+Longitude	
+DateTime	
+Consumed_Power_Units	
+Sector	
+Division
+Prediction
